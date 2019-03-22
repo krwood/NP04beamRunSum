@@ -1,4 +1,5 @@
 #***********************************************************************
+#
 # Kevin Wood; November, 2018
 #
 # - Meant to be run with python3:
@@ -11,7 +12,6 @@
 #   can also be forced by hand.
 #
 #***********************************************************************
-
 
 import matplotlib
 import matplotlib.pyplot as plt
